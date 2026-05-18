@@ -41,7 +41,7 @@ async function connectDB() {
         verified: true,
         role: "Full-Stack Developer",
         stack: ["Node.js", "MongoDB", "JavaScript", "Express", "CSS"],
-        avatar: "https://cdn.dix.lat/me/ed69b876-ba2f-4a31-a418-707a07f0fc85.jpg",
+        avatar: "",
         createdAt: new Date(),
       });
     }
