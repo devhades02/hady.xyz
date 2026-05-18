@@ -1,0 +1,26 @@
+{
+  "name": "devhades-dashboard",
+  "version": "1.0.0",
+  "description": "Cyberpunk SaaS dashboard with Express + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "dashboard",
+    "cyberpunk",
+    "express",
+    "mongodb",
+    "saas"
+  ],
+  "author": "DevHades",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "mongoose": "^8.5.0"
+  }
+}
